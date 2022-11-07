@@ -26,7 +26,7 @@ disqusShortname = ""
 [params]
     math = true
     # Blog description at the top of the homepage. Supports markdown.
-    description = "Noteworthy is a minimalist Hugo theme, perfect for writers and bloggers."
+    description = "Do Nothing"
 
     showReadMore = false
 
@@ -37,46 +37,32 @@ disqusShortname = ""
     # Add links to your accounts. Remove the ones you don't want to include.
     # Main
     email = "#"
-    facebook = "#"
-    twitter = "#"
-    instagram = "#"
-    tumblr = "#"
-    reddit = "#"
-    pinterest = "#"
-    youtube = "#"
-    vimeo = "#"
-    weibo = "#"
-    vk = "#"
     linkedin = "#"
 
     # Writing
-    medium = "#"
-    blogger = "#"
-    wordpress = "#"
+    # medium = "#"
+    # blogger = "#"
+    # wordpress = "#"
 
     # Creative & Visual
-    dribbble = "#"
-    behance = "#"
-    deviantart = "#"
-    flickr = "#"
 
     # Audio & Music
-    soundcloud = "#"
+    # soundcloud = "#"
 
     # Programming
     github = "#"
-    stackoverflow = "#"
-    gitlab = "#"
-    codepen = "#"
+    # stackoverflow = "#"
+    # gitlab = "#"
+    # codepen = "#"
 
     # Academic
-    googlescholar = "#"
-    impactstory = "#"
-    orcid = "#"
+    # googlescholar = "#"
+    # impactstory = "#"
+    # orcid = "#"
 
     # Travel
-    googlemaps = "#"
-    tripadvisor = "#"
+    # googlemaps = "#"
+    # tripadvisor = "#"
 
 # Menu links along the sidebar navigation.
 [[menu.main]]
